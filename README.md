@@ -1,28 +1,28 @@
 # Cybersecurity Journey
 
-Repositório que documenta minha evolução prática em cibersegurança,
-com foco em Pentest Web e Blue Team.
+Repositório centralizado de evolução técnica, documentando a construção de laboratórios, análise de vulnerabilidades e implementação de controles defensivos.
 
 ## Sobre mim
-Profissional em formação em segurança ofensiva e defensiva,
-com base em desenvolvimento web e foco em ambientes reais.
+Sou um profissional em transição para a área de segurança, unindo meu background em desenvolvimento web com as disciplinas de Offensive e Defensive Security. Meu foco é entender o ataque para construir defesas resilientes.
 
-## Objetivo profissional
-Atuar como Pentester ou Analista de Segurança (Blue Team) em regime CLT.
+Foco Atual: Finalização da Certificação Profissional Google & Exploração de vulnerabilidades OWASP Top 10.
 
-## O que você encontrará aqui
-- Laboratórios práticos
-- Análise de sistemas reais
-- Documentação de ataques e mitigações
-- Projetos próprios
-- Metodologia profissional de segurança
+Contatos: LinkedIn | E-mail
 
-## Metodologias utilizadas
-- OWASP Testing Guide
-- OWASP ASVS
-- Mentalidade Bug Bounty (HackerOne)
-- Defesa em profundidade
+## Projetos em destaque
+🔹Chat Online: Do Vulnerável ao Hardened
+O projeto que demonstra meu conhecimento em SDLC Seguro (DevSecOps).
 
-## Aviso
-Todo o conteúdo aqui é executado em ambientes controlados,
-sem impacto em sistemas de terceiros.
+O Desafio: Criar um chat intencionalmente vulnerável (SQLi, XSS, Broken Auth) e aplicar camadas de segurança progressivas.
+
+Ferramentas: Python/Node, Docker, SQLMap, Burp Suite.
+
+Status: 🔄 Em evolução (Fase de Implementação).
+
+🔹 Homelab: SIEM & Threat Detection
+O Desafio: Implementar um Wazuh (SIEM) para monitorar logs de um servidor Linux e detectar ataques de Brute Force em tempo real.
+
+Evidências: Dashboard configurado, alertas de e-mail disparados e relatórios de conformidade.
+
+## Certificações
+[ ] Google Cybersecurity Professional Certificate (Coursera) - Em andamento
